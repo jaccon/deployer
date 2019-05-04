@@ -42,4 +42,9 @@ To running the script is very easy, just need insert the command in shell:
 python deployer.py
 ~~~~
 
+### Demo
+
+[![](http://img.youtube.com/vi/9Vma9xSXlQM/0.jpg)](http://www.youtube.com/watch?v=9Vma9xSXlQM "")
+
+
 Just fun!
