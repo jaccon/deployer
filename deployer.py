@@ -2,7 +2,7 @@ import json
 import os
 from urllib2 import urlopen
 
-configuration_file = 'app.deploy.config.json'
+configuration_file = 'deployer.config.json'
 
 with open(configuration_file) as json_file:
     data = json.load(json_file)
