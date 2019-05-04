@@ -33,3 +33,13 @@ First you need to open file deployer.config.json and put your informations like 
     ]
 }
 ~~~~
+
+### Running script
+
+To running the script is very easy, just need insert the command in shell:
+
+~~~~
+python deployer.py
+~~~~
+
+Just fun!
